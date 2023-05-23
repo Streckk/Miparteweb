@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
-import App from './App.vue'
 
-createApp(App).mount('#App')
+import Juezpantalla_principal from './components/Juezpantalla_principal.vue'
+
+createApp(Juezpantalla_principal).mount('#Juezpantalla')
